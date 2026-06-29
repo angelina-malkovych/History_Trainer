@@ -37,10 +37,6 @@ cd History_Trainer
 python main.py
 ```
 
-## 📷 Скріншоти
-
-*Тут будуть додані скріншоти програми.*
-
 ## 👩‍💻 Автор
 
 **Angelina Malkovych**
